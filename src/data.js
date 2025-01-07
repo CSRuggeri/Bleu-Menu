@@ -2,7 +2,7 @@ const menu = [
   {
     id: 1,
     title: "buttermilk pancakes",
-    category: "breakfast",
+    category: "desayuno",
     price: 40.000,
     img: "./images/item-1.jpeg",
     desc: `Pancake dengan bahan terbaik dipadukan oleh susu dan mentega pilihan serta dilumuri saus stroberi madu serta soft creamcheese `,
@@ -10,7 +10,7 @@ const menu = [
   {
     id: 2,
     title: "Burger Platter",
-    category: "lunch",
+    category: "almuerzo",
     price: 73.000,
     img: "./images/item-2.jpeg",
     desc: `Burger Beef dengan kentang terbaik, beef dipilih menggunakan daging wagyu `,
@@ -18,7 +18,7 @@ const menu = [
   {
     id: 3,
     title: "Strawberry milkshake",
-    category: "shakes",
+    category: "licuado",
     price: 36,
     img: "./images/item-3.jpeg",
     desc: `Pancake dengan bahan terbaik dipadukan oleh susu dan mentega pilihan serta dilumuri saus stroberi madu serta soft creamcheese`,
@@ -26,7 +26,7 @@ const menu = [
   {
     id: 4,
     title: "Mie Telor",
-    category: "breakfast",
+    category: "desayuno",
     price: 30,
     img: "./images/item-4.jpeg",
     desc: `Pancake dengan bahan terbaik dipadukan oleh susu dan mentega pilihan serta dilumuri saus stroberi madu serta soft creamcheese `,
@@ -34,7 +34,7 @@ const menu = [
   {
     id: 5,
     title: "Burger Super",
-    category: "lunch",
+    category: "almuerzo",
     price: 20,
     img: "./images/item-5.jpeg",
     desc: `Milshake stroberi dengan soct cream cheese di dalamnya `,
@@ -42,7 +42,7 @@ const menu = [
   {
     id: 6,
     title: "Oreo Milkshake",
-    category: "shakes",
+    category: "licuado",
     price: 18,
     img: "./images/item-6.jpeg",
     desc: `Pancake dengan bahan terbaik dipadukan oleh susu dan mentega pilihan serta dilumuri saus stroberi madu serta soft creamcheese`,
@@ -50,7 +50,7 @@ const menu = [
   {
     id: 7,
     title: "Bacon Platter",
-    category: "breakfast",
+    category: "desayuno",
     price: 18,
     img: "./images/item-7.jpeg",
     desc: `Pancake dengan bahan terbaik dipadukan oleh susu dan mentega pilihan serta dilumuri saus stroberi madu serta soft creamcheese`,
@@ -58,7 +58,7 @@ const menu = [
   {
     id: 8,
     title: "American Burger",
-    category: "lunch",
+    category: "almuerzo",
     price: 40,
     img: "./images/item-8.jpeg",
     desc: `Pancake dengan bahan terbaik dipadukan oleh susu dan mentega pilihan serta dilumuri saus stroberi madu serta soft creamcheese`,
